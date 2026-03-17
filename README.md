@@ -11,7 +11,7 @@ This font has caps only and this is a feature, not a bug.
 
 **Request: I'd be happy if you drop me a line via [Messenger](https://www.messenger.com/e2ee/t/9592393397506829) or [Telegram](https://web.telegram.org/a/#1916705323) once you have used this font in your project.**
 
-### License: see the EULA attached. 
+### License: see the [EULA attached](https://github.com/ElektrycznyPies/Tesseum_Font/blob/main/license/EULA_tesseum.txt). 
 License TLDR: Free for private / personal / non-commercial use.  
 Modifications: You are free to process and modify the font.  
 Attribution: Please credit the Author (Dariusz "Zen" Żukowski) where reasonably possible and customary.  
