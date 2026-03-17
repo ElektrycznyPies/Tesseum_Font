@@ -1,0 +1,26 @@
+End-User License Agreement (EULA)
+Font: Tesseum (tesseum.ttf)
+
+Version: 0.1.0
+
+Author: Dariusz "Zen" Żukowski © 2026
+
+1. General Provisions
+This license governs the use of the Tesseum font. Downloading or using the font constitutes acceptance of these terms.
+
+2. Scope of License and Usage
+Private Use: The font is free for all non-commercial and private purposes.
+
+Fields of Use: The Author grants a non-exclusive right to use the font across all media and platforms (including print, digital publishing, websites, apps, and video).
+
+Modifications: Processing and modifying the font file or its glyphs for personal use is permitted.
+
+3. User Obligations
+Attribution: The User agrees to provide credit to the Author (Dariusz "Zen" Żukowski) in project metadata, end credits, or technical documentation, where reasonably possible and customary.
+
+Distribution: Selling the font or its files as a standalone product is strictly prohibited.
+
+Request: Please inform the Author about how you used this font at @ElektrycznyPies (Telegram). It is not obligatory, just something that would make the Author happy. :)
+
+4. Disclaimer
+The font is provided "as is." The Author shall not be held liable for any damages arising from its use.
